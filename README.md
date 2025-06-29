@@ -1,7 +1,10 @@
-# Code for [Insert Research Paper Title]
+# Code for Hybrid Deep Learning Models for Generating Innovated Reference Year
 
 This repository contains the source code developed and used for the analyses and experiments presented in the research article:  
-**"[Insert Full Title of the Paper]"**, submitted to *PLOS ONE*.
+**"Hybrid Deep Learning Models for Generating Innovated Reference Year"**, submitted to *PLOS ONE*.
+
+The code is available at: https://github.com/jimmyfloyd91/RY  
+A citable version with DOI is archived at Zenodo: https://doi.org/10.5281/zenodo.15768673
 
 ## 📂 Repository Structure
 
@@ -49,8 +52,3 @@ scikit-learn
 
 This code is licensed under the MIT License. You are free to use, modify, and distribute it under the terms of the license.
 
-## 📝 Citation
-
-If you use this code in your own work, please cite our article:
-
-> [Authors]. (2025). *[Full Title of the Paper]*. PLOS ONE. [DOI if available]
